@@ -19,11 +19,6 @@ Some resources to start out with (these are not strict — more to give you opti
 
 ---
 
-## Implementation / Hands-on
-- Coding models in PyTorch (stable diffusion, transformer): watch a tutorial and understand & write every LOC
-
----
-
 ## How to Read / Paper Lists
 - [How to read papers (fast.ai forum)](https://forums.fast.ai/t/how-to-read-research-papers-andrew-ng/66892) 
 - [Ilya Sutskever list of papers/topics](https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE) 
@@ -62,6 +57,11 @@ Some resources to start out with (these are not strict — more to give you opti
 - [Tim Dettmers](https://timdettmers.com/)
 - [Karpathy (home)](https://karpathy.github.io/)
 - [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
+
+---
+
+## Implementation / Hands-on
+- Coding models in PyTorch (stable diffusion, transformer): watch a tutorial and understand & write every LOC
 
 ---
 
