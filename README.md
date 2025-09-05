@@ -1,0 +1,71 @@
+# AI Resources
+
+Some resources to start out with (these are not strict — more to give you options to shop around with; please look at other resources if they interest you).
+
+---
+
+## Courses & Guided Tracks
+- [3B1B Neural Networks intro](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+- [Taking Andrew Ng's ML specialization course](https://www.deeplearning.ai/courses/machine-learning-specialization/)
+
+---
+
+## Lectures, Talk Series & YouTube Channels
+- [Andrej Karpathy — watching many of his videos (includes "GPT from scratch")](https://www.youtube.com/andrejkarpathy)
+- [Pieter Abbeel lectures](https://www.youtube.com/@PieterAbbeel/playlists)
+- [MIT AI lectures](https://m.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) 
+- [Scaling talk (Stanford Online)](https://www.youtube.com/watch?v=orDKvo8h71o&ab_channel=StanfordOnline)
+- [Watching some of Yannic Kilcher's videos is also useful](https://www.youtube.com/@YannicKilcher)
+
+---
+
+## Implementation / Hands-on
+- Coding models in PyTorch (stable diffusion, transformer): watch a tutorial and understand & write every LOC
+
+---
+
+## How to Read / Paper Lists
+- [How to read papers (fast.ai forum)](https://forums.fast.ai/t/how-to-read-research-papers-andrew-ng/66892) 
+- [Ilya Sutskever list of papers/topics](https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE) 
+- [Reddit thread: "The ML papers that rocked our world 2020–2023"](https://www.reddit.com/r/MachineLearning/comments/16ij18f/d_the_ml_papers_that_rocked_our_world_20202023/)
+
+---
+
+## Core Papers & Surveys
+- [ResNet](https://arxiv.org/abs/1512.03385)
+- [Transformers](https://arxiv.org/abs/1706.03762)
+- [SSL Cookbook](https://arxiv.org/pdf/2304.12210)
+- [DINO](https://arxiv.org/pdf/2104.14294) 
+- [World Models](https://arxiv.org/pdf/1803.10122)
+
+---
+
+## Diffusion (videos + papers)
+- [Diffusion explainer — Umar Jamil](https://www.youtube.com/watch?v=ZBKpAp_6TGI&ab_channel=UmarJamil)
+- [Jeremy Howard talk (part 1)](https://www.youtube.com/watch?v=_7rMfsA24Ls&t=7035s&ab_channel=JeremyHoward)  
+- [Jeremy Howard talk (part 2)](https://www.youtube.com/watch?v=6StU6UtZEbU&t=1194s&ab_channel=JeremyHoward) 
+- [Diffusion paper A](https://arxiv.org/pdf/2112.10752)
+- [Diffusion paper B](https://arxiv.org/pdf/2212.09748)
+
+---
+
+## Communities, News & Social
+- [Twitter (X) — follow larger accounts I follow including Yann LeCun, AK, etc](https://x.com/AlexiGlad/following)
+- [Reddit — r/MachineLearning](https://www.reddit.com/r/MachineLearning/)
+
+---
+
+## Blogs & Practical Guides
+- [Karpathy — debugging/training ("Recipe")](https://karpathy.github.io/2019/04/25/recipe/) 
+- [Google Research — hparam tuning playbook](https://github.com/google-research/tuning_playbook#who-is-this-document-for)
+- [Lilian Weng](https://lilianweng.github.io/)
+- [Tim Dettmers](https://timdettmers.com/)
+- [Karpathy (home)](https://karpathy.github.io/)
+- [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
+
+---
+
+## Notes & Advice
+- Rewatch/re-read things you didn't get initially after some time — progress is real but gradual.  
+- Use ChatGPT / LLMs to help explain papers and math (use cautiously; don't over-rely).  
+- My blog on how to do AI research (coming soon — feel free to ask me for the draft)
