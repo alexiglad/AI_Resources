@@ -61,7 +61,8 @@ Some resources to start out with (these are not strict — more to give you opti
 ---
 
 ## Implementation / Hands-on
-- Coding models in PyTorch (stable diffusion, transformer): watch a tutorial and understand & write every LOC
+- Coding models in PyTorch ([stable diffusion](https://www.youtube.com/watch?v=ZBKpAp_6TGI&ab_channel=UmarJamil), [LLM transformer](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=41s&ab_channel=AndrejKarpathy))
+- Code [DiT architecture](https://github.com/facebookresearch/DiT) from scratch based on the [paper](https://arxiv.org/abs/2212.09748) using only the trainer and diffusion module (no using LLMs for help)
 
 ---
 
