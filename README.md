@@ -47,7 +47,7 @@ Some resources to start out with (these are not strict — more to give you opti
 ## Energy-Based Models (videos + papers)
 - [Energy-Based Transformers covered by yannic kilcher](https://www.youtube.com/watch?v=RAEy3JZmIaA)
 - [Energy-Based Transformers covered by bycloud](https://www.youtube.com/watch?v=LUQkWzjv2RM)
-- [Energy-Based Transformers](https://energy-based-transformers.github.io/), see sections H and I
+- [Energy-Based Transformers](https://energy-based-transformers.github.io/), (see sections H and I for an easy to understand intro)
 - [Implicit Generation and Generalization](https://arxiv.org/pdf/1903.08689)
 - [Iterative reasoning as energy minimization](https://arxiv.org/pdf/2206.15448)
 - [Iterative reasoning as energy diffusion](https://arxiv.org/pdf/2406.11179)
