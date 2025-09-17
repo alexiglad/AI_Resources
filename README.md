@@ -29,6 +29,9 @@ Some resources to start out with (these are not strict — more to give you opti
 ## Core Papers & Surveys
 - [ResNet](https://arxiv.org/abs/1512.03385)
 - [Transformers](https://arxiv.org/abs/1706.03762)
+- [Contrastive Predictive Coding](https://arxiv.org/pdf/1807.03748)
+- [VQ VAE](https://arxiv.org/abs/1711.00937)
+- [Yann Lecun's Jepa](https://openreview.net/pdf?id=BZ5a1r-kVsf)
 - [SSL Cookbook](https://arxiv.org/pdf/2304.12210)
 - [DINO](https://arxiv.org/pdf/2104.14294) 
 - [World Models](https://arxiv.org/pdf/1803.10122)
