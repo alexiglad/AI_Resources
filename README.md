@@ -44,6 +44,7 @@ Some resources to start out with (these are not strict — more to give you opti
 - [Jeremy Howard talk (part 2)](https://www.youtube.com/watch?v=6StU6UtZEbU&t=1194s&ab_channel=JeremyHoward) 
 - [Diffusion paper A](https://arxiv.org/pdf/2112.10752)
 - [Diffusion paper B](https://arxiv.org/pdf/2212.09748)
+- [MIT Diffusion models intro](https://www.youtube.com/watch?v=EUNr6Z_xbCA&list=PL_1TbuIu65A_G908tHHvTnyQsueR17rMh&index=4)
 
 ---
 
