@@ -32,7 +32,6 @@ Some resources to start out with (these are not strict — more to give you opti
 - [GPT2](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 - [Vision Transformers](https://arxiv.org/abs/2010.11929)
 - [Scaling Laws](https://arxiv.org/abs/2001.08361)
-- 
 
 ---
 
