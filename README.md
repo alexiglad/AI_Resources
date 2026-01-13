@@ -26,15 +26,32 @@ Some resources to start out with (these are not strict — more to give you opti
 
 ---
 
-## Core Papers & Surveys
+## Core Papers
 - [ResNet](https://arxiv.org/abs/1512.03385)
 - [Transformers](https://arxiv.org/abs/1706.03762)
+- [GPT2](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
+- [Vision Transformers](https://arxiv.org/abs/2010.11929)
+- [Scaling Laws](https://arxiv.org/abs/2001.08361)
+- 
+
+---
+
+## Self-Supervised Learning (SSL)
+- [VQ-VAE](https://arxiv.org/abs/1711.00937)
 - [Contrastive Predictive Coding](https://arxiv.org/pdf/1807.03748)
-- [VQ VAE](https://arxiv.org/abs/1711.00937)
-- [Yann Lecun's Jepa](https://openreview.net/pdf?id=BZ5a1r-kVsf)
+- [CLIP](https://arxiv.org/abs/2103.00020)
+- [MAE](https://arxiv.org/abs/2111.06377)
+- [DINO](https://arxiv.org/pdf/2104.14294)
 - [SSL Cookbook](https://arxiv.org/pdf/2304.12210)
-- [DINO](https://arxiv.org/pdf/2104.14294) 
+- [Yann Lecun's Jepa](https://openreview.net/pdf?id=BZ5a1r-kVsf)
+
+---
+
+## World Models / Planning
 - [World Models](https://arxiv.org/pdf/1803.10122)
+- [Dreamerv1](https://arxiv.org/pdf/1912.01603), [Dreamerv3](https://arxiv.org/abs/2301.04104)
+- [Dino-WM](https://arxiv.org/abs/2411.04983)
+- [Diffuser](https://arxiv.org/abs/2205.09991)
 
 ---
 
@@ -45,6 +62,7 @@ Some resources to start out with (these are not strict — more to give you opti
 - [Diffusion paper A](https://arxiv.org/pdf/2112.10752)
 - [Diffusion paper B](https://arxiv.org/pdf/2212.09748)
 - [MIT Diffusion models intro](https://www.youtube.com/watch?v=EUNr6Z_xbCA&list=PL_1TbuIu65A_G908tHHvTnyQsueR17rMh&index=4)
+- [Flow = Diffusion](https://diffusionflow.github.io/)
 
 ---
 
