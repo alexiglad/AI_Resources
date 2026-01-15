@@ -28,15 +28,18 @@ Some resources to start out with (these are not strict — more to give you opti
 
 ## Core Papers
 - [ResNet](https://arxiv.org/abs/1512.03385)
+- [VAEs](https://arxiv.org/abs/1312.6114)
+- [GANs](https://arxiv.org/pdf/1406.2661)
 - [Transformers](https://arxiv.org/abs/1706.03762)
+- [VQ-VAE](https://arxiv.org/abs/1711.00937)
 - [GPT2](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 - [Vision Transformers](https://arxiv.org/abs/2010.11929)
 - [Scaling Laws](https://arxiv.org/abs/2001.08361)
 
+
 ---
 
 ## Self-Supervised Learning (SSL)
-- [VQ-VAE](https://arxiv.org/abs/1711.00937)
 - [Contrastive Predictive Coding](https://arxiv.org/pdf/1807.03748)
 - [CLIP](https://arxiv.org/abs/2103.00020)
 - [MAE](https://arxiv.org/abs/2111.06377)
