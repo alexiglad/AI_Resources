@@ -66,6 +66,7 @@ Some resources to start out with (these are not strict — more to give you opti
 - [Diffusion Transformers (DiTs)](https://arxiv.org/pdf/2212.09748)
 - [MIT Diffusion models intro](https://www.youtube.com/watch?v=EUNr6Z_xbCA&list=PL_1TbuIu65A_G908tHHvTnyQsueR17rMh&index=4)
 - [Flow = Diffusion](https://diffusionflow.github.io/)
+- [Flow, OT, and rectified flow explained simply](https://alechelbling.com/blog/rectified-flow/)
 
 ---
 
