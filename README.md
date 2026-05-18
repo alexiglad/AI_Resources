@@ -133,7 +133,7 @@ Some resources to start out with (definitely worth going down other interesting 
 
 ---
 
-## Social Media / YouTube Channels
+## YouTube Channels
 - [Yannic Kilcher](https://www.youtube.com/@YannicKilcher) — paper walkthroughs
 - [bycloud](https://www.youtube.com/@bycloudAI) — research news roundups
 - [3Blue1Brown](https://www.youtube.com/@3blue1brown) — math intuition
