@@ -1,6 +1,6 @@
 # AI Resources
 
-Some resources to start out with (these are not strict — more to give you options to shop around with; please look at other resources if they interest you).
+Some resources to start out with (definitely worth going down other interesting rabbit holes!).
 
 ---
 
@@ -105,7 +105,59 @@ Some resources to start out with (these are not strict — more to give you opti
 
 ---
 
+## Communities, News & Social
+
+### Twitter / X — people to follow (unfortunately, most of AI informal discourse happens on social media)
+- [Yannic Kilcher](https://x.com/ykilcher)
+- [Yann LeCun](https://x.com/ylecun)
+- [AK (@_akhaliq)](https://x.com/_akhaliq) — daily paper drops
+- [Allen AI](https://x.com/allen_ai)
+- [Chris Paxton](https://x.com/chris_j_paxton)
+- [Jim Fan](https://x.com/DrJimFan)
+- [Zeyuan Allen-Zhu](https://x.com/ZeyuanAllenZhu)
+- [Lucas Beyer (@giffmana)](https://x.com/giffmana)
+- [Clément Delangue (HuggingFace)](https://x.com/ClementDelangue)
+- [Andrej Karpathy](https://x.com/karpathy)
+- [Jeremy Howard](https://x.com/jeremyphoward)
+- [Lilian Weng](https://x.com/lilianweng)
+- [Soumith Chintala (PyTorch)](https://x.com/soumithchintala)
+- [Aran Komatsuzaki](https://x.com/arankomatsuzaki) — paper threads
+- [Sasha Rush](https://x.com/srush_nlp)
+- [Hardmaru (David Ha)](https://x.com/hardmaru)
+- [Sander Dieleman](https://x.com/sedielem) — great on diffusion
+- [Jürgen Schmidhuber](https://x.com/SchmidhuberAI)
+- [Tim Dettmers](https://x.com/Tim_Dettmers)
+
+### Reddit
+- [r/MachineLearning](https://www.reddit.com/r/MachineLearning/)
+
+---
+
+## Social Media / YouTube Channels
+- [Yannic Kilcher](https://www.youtube.com/@YannicKilcher) — paper walkthroughs
+- [bycloud](https://www.youtube.com/@bycloudAI) — research news roundups
+- [3Blue1Brown](https://www.youtube.com/@3blue1brown) — math intuition
+- [AI Explained](https://www.youtube.com/@aiexplained-official)
+- [Fireship](https://www.youtube.com/@Fireship)
+- [Jia-Bin Huang](https://www.youtube.com/@jbhuang0604)
+- [Steve Brunton (Eigensteve)](https://www.youtube.com/@Eigensteve)
+- [StatQuest](https://www.youtube.com/@statquest)
+- [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
+- [Deepia](https://www.youtube.com/@Deepia-ls2fo)
+- [Two Minute Papers](https://www.youtube.com/@TwoMinutePapers)
+- [Machine Learning Street Talk](https://www.youtube.com/@MachineLearningStreetTalk) — long-form interviews
+- [AI Coffee Break with Letitia](https://www.youtube.com/@AICoffeeBreak)
+- [Computerphile](https://www.youtube.com/@Computerphile)
+- [Sentdex](https://www.youtube.com/@sentdex)
+
+---
+
+## Other Resources
+- Sign up for [HuggingFace Papers](https://huggingface.co/papers) daily emails — curated top arxiv papers
+
+---
+
 ## Notes & Advice
 - Rewatch/re-read things you didn't get initially after some time — progress is real but gradual.  
-- Use ChatGPT / LLMs to help explain papers and math (use cautiously; don't over-rely).  
+- Use LLMs to help explain papers and math (just be careful doing so)  
 - My blog on how to do AI research (coming soon — feel free to ask me for the draft)
