@@ -83,12 +83,6 @@ Some resources to start out with (definitely worth going down other interesting 
 
 ---
 
-## Communities, News & Social
-- [Twitter (X) — follow larger accounts I follow including Yann LeCun, AK, etc](https://x.com/AlexiGlad/following)
-- [Reddit — r/MachineLearning](https://www.reddit.com/r/MachineLearning/)
-
----
-
 ## Blogs & Practical Guides
 - [Karpathy — debugging/training ("Recipe")](https://karpathy.github.io/2019/04/25/recipe/) 
 - [Google Research — hparam tuning playbook](https://github.com/google-research/tuning_playbook#who-is-this-document-for)
