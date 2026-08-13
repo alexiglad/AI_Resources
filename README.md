@@ -122,6 +122,15 @@ Some resources to start out with (definitely worth going down other interesting 
 - [Jürgen Schmidhuber](https://x.com/SchmidhuberAI)
 - [Tim Dettmers](https://x.com/Tim_Dettmers)
 
+### Google Scholar — researchers I follow
+- [Yann LeCun](https://scholar.google.com/citations?user=WLN3QrAAAAAJ)
+- [Kaiming He](https://scholar.google.com/citations?user=DhtAFkwAAAAJ)
+- [Saining Xie](https://scholar.google.com/citations?user=Y2GtJkAAAAAJ)
+- [Yilun Du](https://scholar.google.com/citations?user=GRMMc_MAAAAJ)
+- [Mengye Ren](https://scholar.google.com/citations?user=XcQ9WqMAAAAJ)
+- [Percy Liang](https://scholar.google.com/citations?user=pouyVyUAAAAJ)
+- [Tatsunori Hashimoto](https://scholar.google.com/citations?user=5ygiTwsAAAAJ)
+
 ### Reddit
 - [r/MachineLearning](https://www.reddit.com/r/MachineLearning/)
 
