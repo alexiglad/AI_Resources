@@ -53,7 +53,7 @@ Some resources to start out with (definitely worth going down other interesting 
 - [World Models](https://arxiv.org/pdf/1803.10122)
 - [Dreamerv1](https://arxiv.org/pdf/1912.01603), [Dreamerv3](https://arxiv.org/abs/2301.04104)
 - [Dino-WM](https://arxiv.org/abs/2411.04983)
-- [Diffuser](https://arxiv.org/abs/2205.09991)
+- [Diffuser](https://arxiv.org/abs/2205.09991), [Decision-Diffuser](https://arxiv.org/abs/2211.15657)
 
 ---
 
