@@ -32,9 +32,12 @@ Some resources to start out with (definitely worth going down other interesting 
 - [GANs](https://arxiv.org/pdf/1406.2661)
 - [Transformers](https://arxiv.org/abs/1706.03762)
 - [VQ-VAE](https://arxiv.org/abs/1711.00937)
+- [GPT1](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
 - [GPT2](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 - [Vision Transformers](https://arxiv.org/abs/2010.11929)
 - [Scaling Laws](https://arxiv.org/abs/2001.08361)
+- [GPT3](https://arxiv.org/abs/2005.14165)
+- [Chinchilla (compute-optimal scaling)](https://arxiv.org/abs/2203.15556)
 
 
 ---
@@ -157,6 +160,7 @@ Some resources to start out with (definitely worth going down other interesting 
 
 ## Other Resources
 - Sign up for [HuggingFace Papers](https://huggingface.co/papers) daily emails — curated top arxiv papers
+- [bycloud newsletter](https://mail.bycloud.ai/) — weekly AI research roundup
 
 ---
 
